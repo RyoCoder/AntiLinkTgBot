@@ -7,7 +7,7 @@
 // 
 // GNU GENERAL PUBLIC LICENSE
 
-define('BOT_TOKEN', '! ! Bot_Token_here ! ! ');
+define('BOT_TOKEN', '5169756353:AAGoiHacbXcb4YBifRSyIGG1dKaea2EDvxY');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 function apiRequestWebhook($method, $parameters)
 {
